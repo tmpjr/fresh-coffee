@@ -1,0 +1,5 @@
+fresh_coffee:
+    resource: "@FreshCoffeeBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
